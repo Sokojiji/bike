@@ -1,0 +1,3424 @@
+{
+  "name": "discover",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "wP2tKT05ZhHrzCtbBV6gKA",
+    "node": "410:54",
+    "version": "3396462897",
+    "component-id": "2e0adc8f8e4d32a5b4b3df0ad5718fd399e1767f"
+  },
+  "default": "Discover",
+  "documentation": "Discover",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Status Bar"
+      },
+      {
+        "type": "group",
+        "id": "HomeIndicator"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 1"
+      },
+      {
+        "type": "group",
+        "id": "Group 2"
+      },
+      {
+        "type": "group",
+        "id": "Top Navigation"
+      },
+      {
+        "type": "group",
+        "id": "Top Card"
+      },
+      {
+        "type": "group",
+        "id": "Bicycle"
+      },
+      {
+        "type": "group",
+        "id": "Electric"
+      },
+      {
+        "type": "group",
+        "id": "Road"
+      },
+      {
+        "type": "group",
+        "id": "Mountain"
+      },
+      {
+        "type": "group",
+        "id": "Accessory"
+      },
+      {
+        "type": "group",
+        "id": "Group 4"
+      },
+      {
+        "type": "group",
+        "id": "Group 3"
+      },
+      {
+        "type": "group",
+        "id": "Group 5"
+      },
+      {
+        "type": "group",
+        "id": "Tab Bar"
+      },
+      {
+        "type": "group",
+        "id": "Battery"
+      },
+      {
+        "type": "group",
+        "id": "Time Style"
+      },
+      {
+        "type": "vector",
+        "id": "Border"
+      },
+      {
+        "type": "vector",
+        "id": "Cap"
+      },
+      {
+        "type": "vector",
+        "id": "Capacity"
+      },
+      {
+        "type": "text",
+        "id": "Time"
+      },
+      {
+        "type": "vector",
+        "id": "Home Indicator"
+      },
+      {
+        "type": "vector",
+        "id": "Base"
+      },
+      {
+        "type": "text",
+        "id": "NEW BIKES"
+      },
+      {
+        "type": "text",
+        "id": "Keeway Light"
+      },
+      {
+        "type": "text",
+        "id": "Kes 120,000.00"
+      },
+      {
+        "type": "image",
+        "id": "keeway_k_light-removebg-preview 1"
+      },
+      {
+        "type": "group",
+        "id": "heart / 24 / Outline"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "text",
+        "id": "Choose Your Nduthi"
+      },
+      {
+        "type": "vector",
+        "id": "Base1"
+      },
+      {
+        "type": "text",
+        "id": "30% Off"
+      },
+      {
+        "type": "image",
+        "id": "max-itin-xlhl7rI2M4I-unsplash-removebg-preview 1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 475"
+      },
+      {
+        "type": "text",
+        "id": "All"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 476"
+      },
+      {
+        "type": "vector",
+        "id": "Subtract"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 477"
+      },
+      {
+        "type": "group",
+        "id": "Road1"
+      },
+      {
+        "type": "vector",
+        "id": "Union"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 478"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 479"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 480"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 481"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 482"
+      },
+      {
+        "type": "vector",
+        "id": "Union1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 483"
+      },
+      {
+        "type": "vector",
+        "id": "Union2"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 484"
+      },
+      {
+        "type": "image",
+        "id": "keeway_k_light-removebg-preview 2"
+      },
+      {
+        "type": "group",
+        "id": "Group 1"
+      },
+      {
+        "type": "group",
+        "id": "heart / 24 / Outline1"
+      },
+      {
+        "type": "group",
+        "id": "Frame 1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "text",
+        "id": "NEW BIKES1"
+      },
+      {
+        "type": "text",
+        "id": "Keeway Light1"
+      },
+      {
+        "type": "text",
+        "id": "Kes 120,000.1"
+      },
+      {
+        "type": "vector",
+        "id": "Base2"
+      },
+      {
+        "type": "text",
+        "id": "NEW BIKES2"
+      },
+      {
+        "type": "text",
+        "id": "Keeway Light2"
+      },
+      {
+        "type": "text",
+        "id": "Kes 120,000.2"
+      },
+      {
+        "type": "image",
+        "id": "keeway_k_light-removebg-preview 3"
+      },
+      {
+        "type": "group",
+        "id": "heart / 24 / Outline2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector3"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 485"
+      },
+      {
+        "type": "image",
+        "id": "keeway_k_light-removebg-preview 4"
+      },
+      {
+        "type": "group",
+        "id": "Group 6"
+      },
+      {
+        "type": "group",
+        "id": "heart / 24 / Outline3"
+      },
+      {
+        "type": "group",
+        "id": "Frame 2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector4"
+      },
+      {
+        "type": "text",
+        "id": "NEW BIKES3"
+      },
+      {
+        "type": "text",
+        "id": "Keeway Light3"
+      },
+      {
+        "type": "text",
+        "id": "Kes 120,000.3"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 24"
+      },
+      {
+        "type": "group",
+        "id": "TabBar"
+      },
+      {
+        "type": "group",
+        "id": "Selected Button"
+      },
+      {
+        "type": "group",
+        "id": "Tabs"
+      },
+      {
+        "type": "group",
+        "id": "HomeIndicator1"
+      },
+      {
+        "type": "group",
+        "id": "TabBar-item"
+      },
+      {
+        "type": "group",
+        "id": "TabBar-item1"
+      },
+      {
+        "type": "group",
+        "id": "TabBar-item2"
+      },
+      {
+        "type": "group",
+        "id": "TabBar-item3"
+      },
+      {
+        "type": "group",
+        "id": "TabBar-item4"
+      },
+      {
+        "type": "vector",
+        "id": "bicycle"
+      },
+      {
+        "type": "text",
+        "id": "SF Symbol / scribble.variable"
+      },
+      {
+        "type": "text",
+        "id": "✏️ Label"
+      },
+      {
+        "type": "vector",
+        "id": "map.fill"
+      },
+      {
+        "type": "text",
+        "id": "SF Symbol / scribble.variable1"
+      },
+      {
+        "type": "text",
+        "id": "✏️ Label1"
+      },
+      {
+        "type": "vector",
+        "id": "cart.fill"
+      },
+      {
+        "type": "text",
+        "id": "SF Symbol / scribble.variable2"
+      },
+      {
+        "type": "text",
+        "id": "✏️ Label2"
+      },
+      {
+        "type": "vector",
+        "id": "person.fill"
+      },
+      {
+        "type": "text",
+        "id": "SF Symbol / scribble.variable3"
+      },
+      {
+        "type": "text",
+        "id": "✏️ Label3"
+      },
+      {
+        "type": "group",
+        "id": "doc.text.fill"
+      },
+      {
+        "type": "text",
+        "id": "SF Symbol / scribble.variable4"
+      },
+      {
+        "type": "text",
+        "id": "✏️ Label4"
+      },
+      {
+        "type": "vector",
+        "id": "doc.text.fill1"
+      },
+      {
+        "type": "vector",
+        "id": "Home Indicator1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 486"
+      },
+      {
+        "type": "group",
+        "id": "bicycle1"
+      },
+      {
+        "type": "vector",
+        "id": "bicycle2"
+      }
+    ],
+    "modes": {
+      "Discover": {
+        "rules": [
+          {
+            "id": "top_level",
+            "border-radius": "50.0",
+            "is-structured": "false",
+            "children": [
+              "Status Bar",
+              "HomeIndicator",
+              "Rectangle 1",
+              "Group 2",
+              "Top Navigation",
+              "Top Card",
+              "Bicycle",
+              "Electric",
+              "Road",
+              "Mountain",
+              "Accessory",
+              "Group 4",
+              "Group 3",
+              "Group 5",
+              "Tab Bar"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "219.13043478260872",
+              "saturation": "0.3898305084745763",
+              "value": "0.23137254901960785"
+            }
+          },
+          {
+            "id": "Status Bar",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "375.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Battery",
+              "Time Style"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "HomeIndicator",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "15.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "810.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "375.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "34.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Home Indicator"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-11.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "188.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "545.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "655.0"
+              }
+            },
+            "vector-content": "rectangle_1.svg"
+          },
+          {
+            "id": "Group 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "205.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "448.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "165.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "240.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Base",
+              "NEW BIKES",
+              "Keeway Light",
+              "Kes 120,000.00",
+              "keeway_k_light-removebg-preview 1",
+              "heart / 24 / Outline"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Top Navigation",
+            "padding": "10.0",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "327.0203593901032"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "49.020370240086564"
+              }
+            },
+            "relative-transform": [
+              [
+                "0.9999995231628418",
+                "-0.0010186859872192144",
+                "0.0"
+              ],
+              [
+                "0.0010186859872192144",
+                "0.9999995231628418",
+                "0.0"
+              ]
+            ],
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.01189041137695"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "39.99669647216797"
+              }
+            },
+            "stroke-width": "1.0",
+            "children": [
+              "Vector1"
+            ],
+            "item-spacing": "10.0",
+            "fills": [
+              {
+                "color": {},
+                "opacity": "1.0",
+                "fill-type": "lineargradient",
+                "blend-mode": "normal",
+                "color-stops": [
+                  {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "197.19101123595505",
+                      "saturation": "0.7639484978540773",
+                      "value": "0.9137254901960784"
+                    },
+                    "color-stop-position": "0.0"
+                  },
+                  {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "239.62962962962962",
+                      "saturation": "0.6835443037974683",
+                      "value": "0.9294117647058824"
+                    },
+                    "color-stop-position": "1.0"
+                  }
+                ],
+                "gradient-handle-positions": [
+                  {
+                    "x": "0.02",
+                    "y": "0.0"
+                  },
+                  {
+                    "x": "0.71",
+                    "y": "1.0"
+                  },
+                  {
+                    "x": "-0.48",
+                    "y": "0.24"
+                  }
+                ]
+              }
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Top Card",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "20.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "67.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "364.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "298.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Choose Your Nduthi",
+              "Base1",
+              "30% Off",
+              "max-itin-xlhl7rI2M4I-unsplash-removebg-preview 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Bicycle",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "1.0",
+                "hue": "218.1818181818182",
+                "saturation": "0.4074074074074074",
+                "value": "0.10588235294117647"
+              },
+              "blur": "30.0",
+              "offset-x": "0.0",
+              "offset-y": "20.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "38.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "408.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            },
+            "stroke-width": "1.0",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 475",
+              "All"
+            ],
+            "fills": [
+              {
+                "color": {},
+                "opacity": "1.0",
+                "fill-type": "lineargradient",
+                "blend-mode": "normal",
+                "color-stops": [
+                  {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "190.66666666666669",
+                      "saturation": "0.7758620689655171",
+                      "value": "0.9098039215686274"
+                    },
+                    "color-stop-position": "0.0"
+                  },
+                  {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "241.42857142857142",
+                      "saturation": "0.6942148760330578",
+                      "value": "0.9490196078431372"
+                    },
+                    "color-stop-position": "1.0"
+                  }
+                ],
+                "gradient-handle-positions": [
+                  {
+                    "x": "0.05",
+                    "y": "0.0"
+                  },
+                  {
+                    "x": "1.0",
+                    "y": "1.22"
+                  },
+                  {
+                    "x": "-0.65",
+                    "y": "0.36"
+                  }
+                ]
+              }
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Electric",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "1.0",
+                "hue": "218.1818181818182",
+                "saturation": "0.4074074074074074",
+                "value": "0.10588235294117647"
+              },
+              "blur": "30.0",
+              "offset-x": "0.0",
+              "offset-y": "20.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "108.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "395.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            },
+            "stroke-width": "1.0",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 476",
+              "Subtract"
+            ],
+            "fills": [
+              {
+                "color": {},
+                "opacity": "1.0",
+                "fill-type": "lineargradient",
+                "blend-mode": "normal",
+                "color-stops": [
+                  {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "220.0",
+                      "saturation": "0.3614457831325301",
+                      "value": "0.3254901960784314"
+                    },
+                    "color-stop-position": "0.0"
+                  },
+                  {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "221.05263157894737",
+                      "saturation": "0.3653846153846153",
+                      "value": "0.20392156862745098"
+                    },
+                    "color-stop-position": "1.0"
+                  }
+                ],
+                "gradient-handle-positions": [
+                  {
+                    "x": "0.36",
+                    "y": "0.27"
+                  },
+                  {
+                    "x": "0.58",
+                    "y": "0.85"
+                  },
+                  {
+                    "x": "0.05",
+                    "y": "0.32"
+                  }
+                ]
+              }
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Road",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "1.0",
+                "hue": "218.1818181818182",
+                "saturation": "0.4074074074074074",
+                "value": "0.10588235294117647"
+              },
+              "blur": "30.0",
+              "offset-x": "0.0",
+              "offset-y": "20.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "178.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "377.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            },
+            "stroke-width": "1.0",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 477",
+              "Road1"
+            ],
+            "fills": [
+              {
+                "color": {},
+                "opacity": "1.0",
+                "fill-type": "lineargradient",
+                "blend-mode": "normal",
+                "color-stops": [
+                  {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "220.0",
+                      "saturation": "0.3614457831325301",
+                      "value": "0.3254901960784314"
+                    },
+                    "color-stop-position": "0.0"
+                  },
+                  {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "221.05263157894737",
+                      "saturation": "0.3653846153846153",
+                      "value": "0.20392156862745098"
+                    },
+                    "color-stop-position": "1.0"
+                  }
+                ],
+                "gradient-handle-positions": [
+                  {
+                    "x": "0.36",
+                    "y": "0.27"
+                  },
+                  {
+                    "x": "0.58",
+                    "y": "0.85"
+                  },
+                  {
+                    "x": "0.05",
+                    "y": "0.32"
+                  }
+                ]
+              }
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Mountain",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "244.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "367.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            },
+            "stroke-width": "1.0",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 482",
+              "Union1"
+            ],
+            "fills": [
+              {
+                "color": {},
+                "opacity": "0.6000000238418579",
+                "fill-type": "lineargradient",
+                "blend-mode": "normal",
+                "color-stops": [
+                  {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "221.53846153846155",
+                      "saturation": "0.325",
+                      "value": "0.3137254901960784"
+                    },
+                    "color-stop-position": "0.0"
+                  },
+                  {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "218.57142857142856",
+                      "saturation": "0.3684210526315789",
+                      "value": "0.14901960784313725"
+                    },
+                    "color-stop-position": "1.0"
+                  }
+                ],
+                "gradient-handle-positions": [
+                  {
+                    "x": "0.28",
+                    "y": "0.26"
+                  },
+                  {
+                    "x": "0.5",
+                    "y": "0.72"
+                  },
+                  {
+                    "x": "0.03",
+                    "y": "0.31"
+                  }
+                ]
+              }
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Accessory",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "317.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "357.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            },
+            "stroke-width": "1.0",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 483",
+              "Union2"
+            ],
+            "fills": [
+              {
+                "color": {},
+                "opacity": "0.6000000238418579",
+                "fill-type": "lineargradient",
+                "blend-mode": "normal",
+                "color-stops": [
+                  {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "221.53846153846155",
+                      "saturation": "0.325",
+                      "value": "0.3137254901960784"
+                    },
+                    "color-stop-position": "0.0"
+                  },
+                  {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "218.57142857142856",
+                      "saturation": "0.3684210526315789",
+                      "value": "0.14901960784313725"
+                    },
+                    "color-stop-position": "1.0"
+                  }
+                ],
+                "gradient-handle-positions": [
+                  {
+                    "x": "0.28",
+                    "y": "0.26"
+                  },
+                  {
+                    "x": "0.5",
+                    "y": "0.72"
+                  },
+                  {
+                    "x": "0.03",
+                    "y": "0.31"
+                  }
+                ]
+              }
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "30.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "487.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "165.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "240.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 484",
+              "keeway_k_light-removebg-preview 2",
+              "Group 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "40.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "713.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "165.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "240.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Base2",
+              "NEW BIKES2",
+              "Keeway Light2",
+              "Kes 120,000.2",
+              "keeway_k_light-removebg-preview 3",
+              "heart / 24 / Outline2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 5",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "214.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "677.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "165.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "240.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 485",
+              "keeway_k_light-removebg-preview 4",
+              "Group 6"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Tab Bar",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "742.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "390.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "103.5"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 24",
+              "TabBar",
+              "Selected Button"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Battery",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "336.33331298828125"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "17.333343505859375"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.328033447265625"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.333343505859375"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Border",
+              "Cap",
+              "Capacity"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Time Style",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "21.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "7.33331298828125"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "54.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "21.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Time"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Border",
+            "border-radius": "2.6666667461395264",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "-2.328033447265625"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "22.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "11.333343505859375"
+              }
+            },
+            "vector-content": "border.svg"
+          },
+          {
+            "id": "Cap",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "3.666656494140625"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.328033447265625"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "4.0"
+              }
+            },
+            "vector-content": "cap.svg"
+          },
+          {
+            "id": "Capacity",
+            "border-radius": "1.3333333730697632",
+            "alignment": {
+              "horizontal": {
+                "attachment": "end",
+                "offset": "-4.328033447265625"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "2.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "18.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "7.333343505859375"
+              }
+            },
+            "vector-content": "capacity.svg"
+          },
+          {
+            "id": "Time",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "5.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "54.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "9:41",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "15.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.193359375",
+            "typeface": "SF Pro Text"
+          },
+          {
+            "id": "Home Indicator",
+            "border-radius": "100.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "-8.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "134.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "5.0"
+              }
+            },
+            "vector-content": "home_indicator.svg"
+          },
+          {
+            "id": "Base",
+            "border-radius": "20.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "165.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "240.0"
+              }
+            },
+            "vector-content": "base.svg"
+          },
+          {
+            "id": "NEW BIKES",
+            "opacity": "0.6000000238418579",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "21.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "160.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": " NEW BIKES",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Keeway Light",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "21.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "180.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Keeway Light",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Kes 120,000.00",
+            "opacity": "0.6000000238418579",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "21.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "200.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Kes 120,000.00",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "keeway_k_light-removebg-preview 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "10.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "38.0"
+              }
+            },
+            "relative-transform": [
+              [
+                "-1.0",
+                "0.0",
+                "0.0"
+              ],
+              [
+                "0.0",
+                "1.0",
+                "0.0"
+              ]
+            ],
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "146.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "96.0"
+              }
+            },
+            "image-content": "keeway_k_light_removebg_preview_1.png",
+            "scale": "fill"
+          },
+          {
+            "id": "heart / 24 / Outline",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "123.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "23.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "27.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector"
+            ]
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "2.23651123046875",
+              "top": "3.9011573791503906",
+              "right": "2.2692108154296875",
+              "bottom": "3.9267425537109375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Vector1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.032257080078125"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.01708984375"
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Choose Your Nduthi",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Choose Your Nduthi",
+            "overflow": "visible",
+            "text-size": "20.0",
+            "letter-spacing": "-0.30000001192092896",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Base1",
+            "border-radius": "20.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "5.081602694190224e-9"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "57.99999999256818"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "351.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "240.0"
+              }
+            },
+            "vector-content": "base1.svg"
+          },
+          {
+            "id": "30% Off",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "238.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "0.6",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "30% Off",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "26.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "max-itin-xlhl7rI2M4I-unsplash-removebg-preview 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "1.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "22.0"
+              }
+            },
+            "relative-transform": [
+              [
+                "-1.0",
+                "0.0",
+                "0.0"
+              ],
+              [
+                "0.0",
+                "1.0",
+                "0.0"
+              ]
+            ],
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "363.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "218.0"
+              }
+            },
+            "image-content": "max_itin_xlhl7r_i2m4i_unsplash_removebg_preview_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rectangle 475",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            }
+          },
+          {
+            "id": "All",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "17.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "15.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "All",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 476",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            }
+          },
+          {
+            "id": "Subtract",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "7.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "13.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "36.00000762939453"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.000003814697266"
+              }
+            },
+            "vector-content": "subtract.svg"
+          },
+          {
+            "id": "Rectangle 477",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            }
+          },
+          {
+            "id": "Road1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "10.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Union",
+              "Rectangle 478",
+              "Rectangle 479",
+              "Rectangle 480",
+              "Rectangle 481"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Union",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "vector-content": "union.svg"
+          },
+          {
+            "id": "Rectangle 478",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "14.490153312683105"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "13.0029296875"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.1048154830932617"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.1898021697998047"
+              }
+            },
+            "vector-content": "rectangle_476.svg"
+          },
+          {
+            "id": "Rectangle 479",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "14.277750968933105"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "15.63720703125"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.4872522354125977"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "1.2747879028320312"
+              }
+            },
+            "vector-content": "rectangle_477.svg"
+          },
+          {
+            "id": "Rectangle 480",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.767903327941895"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "19.12190818786621"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "2.4220962524414062"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "2.2946176528930664"
+              }
+            },
+            "vector-content": "rectangle_478.svg"
+          },
+          {
+            "id": "Rectangle 481",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "13.470051765441895"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "24.390869140625"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "3.101983070373535"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "2.804533004760742"
+              }
+            },
+            "vector-content": "rectangle_479.svg"
+          },
+          {
+            "id": "Rectangle 482",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            }
+          },
+          {
+            "id": "Union1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "10.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "vector-content": "union1.svg"
+          },
+          {
+            "id": "Rectangle 483",
+            "presence": "false",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            }
+          },
+          {
+            "id": "Union2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "11.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "11.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "27.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "27.0"
+              }
+            },
+            "vector-content": "union2.svg"
+          },
+          {
+            "id": "Rectangle 484",
+            "border-radius": "20.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "165.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "240.0"
+              }
+            },
+            "vector-content": "rectangle_480.svg"
+          },
+          {
+            "id": "keeway_k_light-removebg-preview 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "17.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "29.0"
+              }
+            },
+            "relative-transform": [
+              [
+                "-1.0",
+                "0.0",
+                "0.0"
+              ],
+              [
+                "0.0",
+                "1.0",
+                "0.0"
+              ]
+            ],
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "128.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "99.09677124023438"
+              }
+            },
+            "image-content": "keeway_k_light_removebg_preview_1.png",
+            "scale": "fill"
+          },
+          {
+            "id": "Group 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "17.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "20.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "131.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "188.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "heart / 24 / Outline1",
+              "Frame 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "heart / 24 / Outline1",
+            "opacity": "0.6000000238418579",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "102.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "29.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "27.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector2"
+            ]
+          },
+          {
+            "id": "Frame 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "130.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "96.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "58.0"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "NEW BIKES1",
+              "Keeway Light1",
+              "Kes 120,000.1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector2",
+            "margin": {
+              "left": "2.402172088623047",
+              "top": "3.5110397338867188",
+              "right": "2.4373092651367188",
+              "bottom": "3.5340728759765625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector2.svg"
+          },
+          {
+            "id": "NEW BIKES1",
+            "opacity": "0.6000000238418579",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": " NEW BIKES",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-align-vertical": "bottom",
+            "text-size": "13.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Keeway Light1",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Keeway Light",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Kes 120,000.1",
+            "opacity": "0.6000000238418579",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Kes 120,000.00",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Base2",
+            "border-radius": "20.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "165.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "240.0"
+              }
+            },
+            "vector-content": "base2.svg"
+          },
+          {
+            "id": "NEW BIKES2",
+            "opacity": "0.6000000238418579",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "21.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "160.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": " NEW BIKES",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Keeway Light2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "21.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "180.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Keeway Light",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Kes 120,000.2",
+            "opacity": "0.6000000238418579",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "21.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "200.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Kes 120,000.00",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "keeway_k_light-removebg-preview 3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "15.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "14.0"
+              }
+            },
+            "relative-transform": [
+              [
+                "-1.0",
+                "0.0",
+                "0.0"
+              ],
+              [
+                "0.0",
+                "1.0",
+                "0.0"
+              ]
+            ],
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "146.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "96.0"
+              }
+            },
+            "image-content": "keeway_k_light_removebg_preview_1.png",
+            "scale": "fill"
+          },
+          {
+            "id": "heart / 24 / Outline2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "121.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "18.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "27.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector3"
+            ]
+          },
+          {
+            "id": "Vector3",
+            "margin": {
+              "left": "2.2365074157714844",
+              "top": "3.901153564453125",
+              "right": "2.2692184448242188",
+              "bottom": "3.9267578125"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector3.svg"
+          },
+          {
+            "id": "Rectangle 485",
+            "border-radius": "20.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "165.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "240.0"
+              }
+            },
+            "vector-content": "rectangle_481.svg"
+          },
+          {
+            "id": "keeway_k_light-removebg-preview 4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "17.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "11.0"
+              }
+            },
+            "relative-transform": [
+              [
+                "-1.0",
+                "0.0",
+                "0.0"
+              ],
+              [
+                "0.0",
+                "1.0",
+                "0.0"
+              ]
+            ],
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "128.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "99.09677124023438"
+              }
+            },
+            "image-content": "keeway_k_light_removebg_preview_1.png",
+            "scale": "fill"
+          },
+          {
+            "id": "Group 6",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "17.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "20.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "131.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "188.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "heart / 24 / Outline3",
+              "Frame 2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "heart / 24 / Outline3",
+            "opacity": "0.6000000238418579",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "102.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "29.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "27.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector4"
+            ]
+          },
+          {
+            "id": "Frame 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "130.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "96.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "58.0"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "NEW BIKES3",
+              "Keeway Light3",
+              "Kes 120,000.3"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector4",
+            "margin": {
+              "left": "2.4021759033203125",
+              "top": "3.51104736328125",
+              "right": "2.4373016357421875",
+              "bottom": "3.5340576171875"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector4.svg"
+          },
+          {
+            "id": "NEW BIKES3",
+            "opacity": "0.6000000238418579",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": " NEW BIKES",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-align-vertical": "bottom",
+            "text-size": "13.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Keeway Light3",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Keeway Light",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Kes 120,000.3",
+            "opacity": "0.6000000238418579",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Kes 120,000.00",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 24",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "390.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "103.5"
+              }
+            },
+            "vector-content": "rectangle_24.svg"
+          },
+          {
+            "id": "TabBar",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "20.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "390.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "stroke-width": "2.0",
+            "main-axis-align": "start",
+            "children": [
+              "Tabs",
+              "HomeIndicator1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Selected Button",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "17.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "60.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "60.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 486",
+              "bicycle1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Tabs",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "49.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "TabBar-item",
+              "TabBar-item1",
+              "TabBar-item2",
+              "TabBar-item3",
+              "TabBar-item4"
+            ]
+          },
+          {
+            "id": "HomeIndicator1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "375.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "34.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Home Indicator1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "TabBar-item",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-156.5"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "49.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "bicycle",
+              "SF Symbol / scribble.variable",
+              "✏️ Label"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "TabBar-item1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-78.5"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "49.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "map.fill",
+              "SF Symbol / scribble.variable1",
+              "✏️ Label1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "TabBar-item2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-0.5"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "49.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "cart.fill",
+              "SF Symbol / scribble.variable2",
+              "✏️ Label2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "TabBar-item3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "77.5"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "49.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "person.fill",
+              "SF Symbol / scribble.variable3",
+              "✏️ Label3"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "TabBar-item4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "155.5"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "75.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "49.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "doc.text.fill",
+              "SF Symbol / scribble.variable4",
+              "✏️ Label4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "bicycle",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.1962890625"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-5.845672607421875"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "27.392578125"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "17.83306884765625"
+              }
+            },
+            "vector-content": "bicycle.svg"
+          },
+          {
+            "id": "SF Symbol / scribble.variable",
+            "presence": "false",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-5.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "211.2941176470588",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "􀤑",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "24.0",
+            "line-height": "1.193359375",
+            "typeface": "SF Pro Display"
+          },
+          {
+            "id": "✏️ Label",
+            "presence": "false",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "16.366455078125"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "211.2941176470588",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "Label",
+            "overflow": "visible",
+            "text-size": "10.0",
+            "letter-spacing": "-0.23999999463558197",
+            "line-height": "1.193359375",
+            "typeface": "SF Pro Text"
+          },
+          {
+            "id": "map.fill",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-5.7841796875"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "18.52734375"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "17.384765625"
+              }
+            },
+            "vector-content": "map_fill.svg"
+          },
+          {
+            "id": "SF Symbol / scribble.variable1",
+            "presence": "false",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-5.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "211.2941176470588",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "􀤑",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "24.0",
+            "line-height": "1.193359375",
+            "typeface": "SF Pro Display"
+          },
+          {
+            "id": "✏️ Label1",
+            "presence": "false",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "16.366455078125"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "211.2941176470588",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "Label",
+            "overflow": "visible",
+            "text-size": "10.0",
+            "letter-spacing": "-0.23999999463558197",
+            "line-height": "1.193359375",
+            "typeface": "SF Pro Text"
+          },
+          {
+            "id": "cart.fill",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.271484375"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-6.1953125"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.42578125"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "17.525390625"
+              }
+            },
+            "vector-content": "cart_fill.svg"
+          },
+          {
+            "id": "SF Symbol / scribble.variable2",
+            "presence": "false",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-5.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "211.2941176470588",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "􀤑",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "24.0",
+            "line-height": "1.193359375",
+            "typeface": "SF Pro Display"
+          },
+          {
+            "id": "✏️ Label2",
+            "presence": "false",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "16.366455078125"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "211.2941176470588",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "Label",
+            "overflow": "visible",
+            "text-size": "10.0",
+            "letter-spacing": "-0.23999999463558197",
+            "line-height": "1.193359375",
+            "typeface": "SF Pro Text"
+          },
+          {
+            "id": "person.fill",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-5.6962890625"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "14.853515625"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.890625"
+              }
+            },
+            "vector-content": "person_fill.svg"
+          },
+          {
+            "id": "SF Symbol / scribble.variable3",
+            "presence": "false",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-5.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "211.2941176470588",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "􀤑",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "24.0",
+            "line-height": "1.193359375",
+            "typeface": "SF Pro Display"
+          },
+          {
+            "id": "✏️ Label3",
+            "presence": "false",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "16.366455078125"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "211.2941176470588",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "Label",
+            "overflow": "visible",
+            "text-size": "10.0",
+            "letter-spacing": "-0.23999999463558197",
+            "line-height": "1.193359375",
+            "typeface": "SF Pro Text"
+          },
+          {
+            "id": "doc.text.fill",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-5.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "28.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "doc.text.fill1"
+            ]
+          },
+          {
+            "id": "SF Symbol / scribble.variable4",
+            "presence": "false",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-5.5"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "211.2941176470588",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "􀤑",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "24.0",
+            "line-height": "1.193359375",
+            "typeface": "SF Pro Display"
+          },
+          {
+            "id": "✏️ Label4",
+            "presence": "false",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "16.366455078125"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "211.2941176470588",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "Label",
+            "overflow": "visible",
+            "text-size": "10.0",
+            "letter-spacing": "-0.23999999463558197",
+            "line-height": "1.193359375",
+            "typeface": "SF Pro Text"
+          },
+          {
+            "id": "doc.text.fill1",
+            "margin": {
+              "left": "6.4501953125",
+              "top": "4.1357421875",
+              "right": "6.4501953125",
+              "bottom": "4.818359375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "doc_text_fill.svg"
+          },
+          {
+            "id": "Home Indicator1",
+            "border-radius": "100.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.5"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "-8.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "134.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "5.0"
+              }
+            },
+            "vector-content": "home_indicator1.svg"
+          },
+          {
+            "id": "Rectangle 486",
+            "border-radius": "10.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "60.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "60.0"
+              }
+            },
+            "vector-content": "rectangle_482.svg"
+          },
+          {
+            "id": "bicycle1",
+            "margin": "16.0",
+            "is-structured": "false",
+            "children": [
+              "bicycle2"
+            ]
+          },
+          {
+            "id": "bicycle2",
+            "margin": {
+              "top": "4.737762451171875",
+              "right": "0.607421875",
+              "bottom": "5.429168701171875"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "bicycle1.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Discover",
+      "size": {
+        "width": 390.0,
+        "height": 844.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
