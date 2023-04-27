@@ -14,15 +14,11 @@ class BTextTheme {
   );
 
   static TextTheme darkTextTheme = TextTheme (
-  brightness: Brightness.dark,
-  textTheme: TextTheme(
-  headline2: GoogleFonts.montserrat(
+    headline2: GoogleFonts.montserrat(
   color: Colors.white70,
-
   ),
     subtitle2: GoogleFonts.poppins(color: Colors.white60,
       fontSize: 24,
-  ),
   ),
   );
 
