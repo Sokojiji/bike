@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'src/utils/theme/theme.dart';
 
-
 void main() => runApp(const App());
 
 class App extends StatelessWidget{
@@ -9,8 +8,7 @@ class App extends StatelessWidget{
 
   @override
   Widget build(BuildContext context) {
-    //
-    // TODO: implement build
+        // TODO: implement build
     return MaterialApp(
       theme: BAppTheme.lightTheme,
       darkTheme: BAppTheme.darkTheme,
@@ -18,8 +16,8 @@ class App extends StatelessWidget{
       home: AppHome(),
     );
   }
-
 }
+
 class AppHome extends StatelessWidget{
   const AppHome({super.key});
 
@@ -42,12 +40,10 @@ class AppHome extends StatelessWidget{
                 style: Theme.of(context).textTheme.subtitle2,),
               Text("Paragraph",
                 style: Theme.of(context).textTheme.bodyText1,),
-              //  ElevatedButton(onPressed: () {}, child: const Text("Elevated Button"),),
-              // OutlinedButton(onPressed: () {}, child: const Text("Outlined Button"),)
+
             ],
           )
       ),
-
     );
   }
 }
