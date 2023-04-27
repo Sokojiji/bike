@@ -13,7 +13,7 @@ class BTextTheme {
   ),
   );
 
-  static ThemeData darkTheme = ThemeData (
+  static TextTheme darkTextTheme = TextTheme (
   brightness: Brightness.dark,
   textTheme: TextTheme(
   headline2: GoogleFonts.montserrat(

@@ -25,7 +25,8 @@ class AppHome extends StatelessWidget{
   Widget build(BuildContext context) {
     // TODO: implement build
     return Scaffold(
-      appBar: AppBar(title: const Text("Board a Nduthi"),leading: const Icon(Icons.ondemand_video),),
+      appBar: AppBar(title: const Text("Board a Nduthi"),
+        leading: const Icon(Icons.ondemand_video),),
       floatingActionButton: FloatingActionButton(
         child: const Icon(Icons.save),
         onPressed: () {},
