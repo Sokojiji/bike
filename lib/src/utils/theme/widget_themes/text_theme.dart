@@ -3,15 +3,13 @@ import 'package:google_fonts/google_fonts.dart';
 
 
 class BTextTheme {
-
   static TextTheme LightTextTheme = TextTheme(
-        headline2: GoogleFonts.montserrat(
-          color: Colors.black87,
+  headline2: GoogleFonts.montserrat(
+  color: Colors.black87,
   ),
-
-    subtitle2:GoogleFonts.poppins(
-    color: Colors.white60,
-    fontSize: 24,
+  subtitle2:GoogleFonts.poppins(
+  color: Colors.white60,
+  fontSize: 24,
   ),
   );
 
@@ -19,11 +17,13 @@ class BTextTheme {
   brightness: Brightness.dark,
   textTheme: TextTheme(
   headline2: GoogleFonts.montserrat(
-    color: Colors.white60,
-    fontSize: 24,
+  color: Colors.white70,
+
+  ),
+    subtitle2: GoogleFonts.poppins(color: Colors.white60,
+      fontSize: 24,
   ),
   ),
   );
 
-  static var darkTextTheme;
 }
