@@ -25,26 +25,10 @@ class AppHome extends StatelessWidget{
   Widget build(BuildContext context) {
     // TODO: implement build
     return Scaffold(
-      appBar: AppBar(title: const Text("Board a Nduthi"),
-        leading: const Icon(Icons.ondemand_video),),
-      floatingActionButton: FloatingActionButton(
-        child: const Icon(Icons.save),
-        onPressed: () {},
-      ),
-      body: Padding(
-          padding: const EdgeInsets.all(20.0),
-          child: ListView(
-            children: [
-              Text("BodaNduthi",
-                style: Theme.of(context).textTheme.headline2,),
-              Text("Choose your Nduthi",
-                style: Theme.of(context).textTheme.subtitle2,),
-              Text("Paragraph",
-                style: Theme.of(context).textTheme.bodyText1,),
+      appBar: AppBar(title: const Text("BoardNduthi")),
+      body: const Center(child: Text("Home Page")),
 
-            ],
-          )
-      ),
+
     );
   }
 }

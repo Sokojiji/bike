@@ -65,6 +65,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.1.1"
+  create:
+    dependency: "direct main"
+    description:
+      name: create
+      sha256: a33d1b4def79fc53e9bc93e0e6772ffd328cac1b464964deeb571296b694ef3d
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.1"
   crypto:
     dependency: transitive
     description:
