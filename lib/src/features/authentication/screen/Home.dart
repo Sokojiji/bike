@@ -12,6 +12,7 @@ class Home extends StatelessWidget{
           icon: Icon(Icons.save),
           label: Text("Board a Nduthi"),
           onPressed: (){},
+
           style: ElevatedButton.styleFrom(
               padding: EdgeInsets.all(20.0),
               fixedSize: Size(300, 80),

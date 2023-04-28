@@ -1,5 +1,5 @@
 name: nduthi
-description: A boda ride hailing app.
+description: A bodanduthi ride hailing app.
 
 publish_to: 'none'
 
@@ -11,16 +11,22 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
   cupertino_icons: ^1.0.2
   google: ^0.0.1
   google_fonts: ^4.0.3
+  flutter_native_splash: ^2.2.19
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
   flutter_lints: ^2.0.0
+
+flutter_native_splash:
+  color: "#f7f6f1"
+  dark_color: "#272727"
+  image: assets/images/bodanduthilogo.jpg
+  image_dark: assets/images/bodanduthilogo.jpg
+
 
 flutter:
   uses-material-design: true
